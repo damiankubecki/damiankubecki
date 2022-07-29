@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Damian</h1>
-<p align="center">an aspiring frontend developer</p>
+<h1 align="center">Cześć, jestem Damian</h1>
+<p align="center">Na moim profilu znajdziesz projekty frontendowe napisane w JS/TS/React. Zapraszam do zapozania się z kodem oraz opisem poszczególnych repo.</p>
 
-<h4 align="center">Connect with me:</h4>
+<h4 align="center">Skontaktuj się ze mną:</h4>
 <p align="center">
 <a href="https://www.facebook.com/damian.kubecki111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/damian.kubecki111/" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/damiankubecki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/damiankubecki/" height="30" width="40" /></a>
