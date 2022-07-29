@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Damian</h1>
-<hr>
 <p align="center">an aspiring frontend developer</p>
 
 <h4 align="center">Connect with me:</h4>
