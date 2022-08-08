@@ -1,4 +1,4 @@
-<h1 align="center">Cześć, jestem Damian</h1>
+<h1 align="center">Cześć :wave: </h1>
 <p align="center">Na moim profilu znajdziesz projekty frontendowe napisane w JS/TS/React.</p>
 
 <h4 align="center">Skontaktuj się ze mną:</h4>
